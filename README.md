@@ -1,5 +1,5 @@
 # CellSize_Dynamics
-Final-year project on the role of cell size on microbial community dynamics.
+Final-year project on the role of cell size variation on bacterial community dynamics.
 
 
 Simulation_Code_FYP is written in Python.
